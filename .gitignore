@@ -1,0 +1,16 @@
+logs/
+npm-debug.log
+yarn-error.log
+egg_sechand/node_modules/
+egg_sechand/app/public
+node_modules/
+package-lock.json
+yarn.lock
+coverage/
+.idea/
+
+run/
+config/config.prod.*
+.DS_Store
+*.sw*
+*.un~
